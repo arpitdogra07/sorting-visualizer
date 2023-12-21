@@ -7,3 +7,7 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+website live at: - https://arpitdogra07.github.io/sorting-visualizer/
+
+
+
